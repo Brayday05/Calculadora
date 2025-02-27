@@ -1,6 +1,6 @@
 #calculadora
 b1= int (input("escriba un numero entero "))
-f2= int(input("escriba otro numero entero "))
+b2= int(input("escriba otro numero entero "))
 resultado= b1+b2
 
 #print#
